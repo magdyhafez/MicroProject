@@ -1,3 +1,6 @@
 C:\Users\Magdy\Desktop\MicroProject\test git\test git\bin\Debug\test git.exe.config
 C:\Users\Magdy\Desktop\MicroProject\test git\test git\obj\Debug\test git.exe
 C:\Users\Magdy\Desktop\MicroProject\test git\test git\obj\Debug\test git.pdb
+C:\Users\Magdy\Desktop\MicroProject\test git\test git\bin\Debug\test git.exe
+C:\Users\Magdy\Desktop\MicroProject\test git\test git\bin\Debug\test git.pdb
+C:\Users\Magdy\Desktop\MicroProject\test git\test git\obj\Debug\test git.csprojResolveAssemblyReference.cache

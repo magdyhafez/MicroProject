@@ -11,6 +11,7 @@ namespace test_git
         static void Main(string[] args)
         {
             Console.WriteLine("Test for git and github");
+            Console.WriteLine("Magdy banch");
             Console.ReadKey();
         }
     }
